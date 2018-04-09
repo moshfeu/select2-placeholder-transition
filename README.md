@@ -16,6 +16,8 @@ an extends to the popular jquery plugin - [select2](https://github.com/select2/s
 
 # Demo
 
+<img src="https://media.giphy.com/media/f9RJ6KVcHDPhr9IUY8/200w_d.gif" />
+
 https://codepen.io/moshfeu/pen/bvOWLN
 
 This plugin wrote with love futher this question in Stackoverflow: https://stackoverflow.com/q/49719506/863110
