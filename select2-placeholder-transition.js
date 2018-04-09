@@ -3,7 +3,7 @@ jQuery.fn.select2PlaceholderTransition = function(options) {
     var $elem = $(this);
     var placeholder = options.placeholder;
     $elem.
-      wrap('<div class="select-wrapper" />').
+      wrap('<div class="select2-wrapper" />').
       after('<label>' + placeholder + '</label>');
     delete options.placeholder;
     var s2 = $elem.select2(options).data('select2');
