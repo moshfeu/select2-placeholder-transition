@@ -1,0 +1,28 @@
+{
+  "name": "select2-placeholder-transition",
+  "version": "1.0.0",
+  "description": "an extends to the popular jquery plugin - select 2 that animating the placeholder",
+  "main": "select2-placeholder-transition.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moshfeu/select2-placeholder-transition.git"
+  },
+  "keywords": [
+    "select2",
+    "placeholder",
+    "transition"
+  ],
+  "author": "moshfeu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/moshfeu/select2-placeholder-transition/issues"
+  },
+  "homepage": "https://github.com/moshfeu/select2-placeholder-transition#readme",
+  "dependencies": {
+    "jquery": ">=1.7.2",
+    "select2": "^4.0.6-rc.1"
+  }
+}

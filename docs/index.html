@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Demo</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link href="../node_modules/select2/dist/css/select2.min.css" rel="stylesheet" />
+  <link href="../lib/select2-placeholder-transition.css" rel="stylesheet" />
+  <style>
+    html, body {
+      height: 100%;
+    }
+
+    .input-wrapper {
+      padding-top: 30px;
+    }
+
+    .select2-placeholder-transition {
+      width: 300px;
+      max-width: 100%;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="input-wrapper">
+    <select name="destinations" class="select2-placeholder-transition" multiple="multiple">
+      <option value="1">Sample 1</option>
+      <option value="2">Sample 2</option>
+      <option value="3">Sample 3</option>
+      <option value="4">Sample 4</option>
+    </select>
+  </div>
+  <script src="../node_modules/jquery/dist/jquery.min.js"></script>
+  <script src="../node_modules/select2/dist/js/select2.js"></script>
+  <script src="../lib/select2-placeholder-transition.js"></script>
+  <script>
+    $(document).ready(function () {
+      $(".select2-placeholder-transition").select2PlaceholderTransition({
+        placeholder: 'Destination(s)',
+        allowClear: true
+      });
+    });
+  </script>
+</body>
+
+</html>
