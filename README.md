@@ -1,4 +1,4 @@
-[![https://nodei.co/npm/select2-placeholder-transition.png?downloads=true&downloadRank=true&stars=true](https://nodei.co/npm/select2-placeholder-transition.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/YOUR-MODULE-NAME)
+[![https://nodei.co/npm/select2-placeholder-transition.png?downloads=true&downloadRank=true&stars=true](https://nodei.co/npm/select2-placeholder-transition.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/select2-placeholder-transition)
 
 
 [![HitCount](https://hits.dwyl.com/moshfeu/select2-placeholder-transition.svg)](https://hits.dwyl.com/dwyl/start-here)
