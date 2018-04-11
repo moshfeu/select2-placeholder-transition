@@ -1,6 +1,6 @@
 {
   "name": "select2-placeholder-transition",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "an extends to the popular jquery plugin - select 2 that animating the placeholder",
   "main": "select2-placeholder-transition.js",
   "scripts": {
