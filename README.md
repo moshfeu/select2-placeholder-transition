@@ -14,7 +14,7 @@ an extends to the popular jquery plugin - [select2](https://github.com/select2/s
 
 **All the options will pass as is to the `select2` function, except `placeholder` which will be handle by this plugin**
 
-# [Demo](demo.html)
+# <a href="https://moshfeu.github.io/select2-placeholder-transition/demo.html" target="_blank">Demo</a>
 
 <img src="https://media.giphy.com/media/f9RJ6KVcHDPhr9IUY8/200w_d.gif" />
 
