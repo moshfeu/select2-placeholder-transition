@@ -1,3 +1,11 @@
+[![https://nodei.co/npm/select2-placeholder-transition.png?downloads=true&downloadRank=true&stars=true](https://nodei.co/npm/select2-placeholder-transition.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/YOUR-MODULE-NAME)
+
+
+[![HitCount](https://hits.dwyl.com/moshfeu/select2-placeholder-transition.svg)](https://hits.dwyl.com/dwyl/start-here)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/moshfeu/select2-placeholder-transition/issues)
+
+
+
 # select2-placeholder-transition
 an extends to the popular jquery plugin - [select2](https://github.com/select2/select2) that animating the placeholder
 
